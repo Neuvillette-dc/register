@@ -2,7 +2,7 @@
     "owner": {
         "username": "Neuvillette-dc"
     },
-    "records": {
-        "CNAME": ["api.yokoya.space"]
+    "record": {
+        "CNAME": "api.yokoya.space"
     }
 }
